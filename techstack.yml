@@ -1,0 +1,549 @@
+repo_name: Aisuko/Quantum
+report_id: 2f7b8c715968ebc166e482bfcf4402d6
+version: 0.1
+repo_type: Public
+timestamp: '2024-03-27T23:31:21+00:00'
+requested_by: web-flow
+provider: github
+branch: main
+detected_tools_count: 41
+tools:
+- name: C#
+  description: Simple, general-purpose, object-oriented programming language for the
+    .NET platform
+  website_url: http://csharp.net
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/Aisuko/Quantum
+  detection_source: Repo Metadata
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/Aisuko/Quantum
+  detection_source: Repo Metadata
+- name: F#
+  description: Strongly-typed, functional-first programming language for writing simple
+    code to solve complex problems
+  website_url: http://fsharp.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2155/yRNL7yTW.png
+  detection_source_url: https://github.com/Aisuko/Quantum
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/Aisuko/Quantum
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/Aisuko/Quantum
+  detection_source: Repo Metadata
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/Aisuko/Quantum
+  detection_source: Repo Metadata
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/Aisuko/Quantum/blob/main/samples/machine-learning/half-moons/HalfMoons.csproj
+  detection_source: samples/machine-learning/half-moons/HalfMoons.csproj
+  last_updated_by: Chris Granade
+  last_updated_on: 2019-12-03 21:50:30.000000000 Z
+- name: ".NET Core"
+  description: An Open Source, General-Purpose Development Platform Maintained by
+    Microsoft and the .NET Community
+  website_url: https://docs.microsoft.com/en-us/dotnet/core/
+  version: '3.1'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/6403/default_91fc1f0ee315262794273aa1387eaf8fed8436e6.png
+  detection_source_url: https://github.com/Aisuko/Quantum/blob/main/samples/algorithms/chsh-game/CHSHGame.csproj
+  detection_source: samples/algorithms/chsh-game/CHSHGame.csproj
+  last_updated_by: Andres Paz
+  last_updated_on: 2019-01-17 07:25:18.000000000 Z
+- name: ASP.NET Core
+  description: A cross-platform .NET framework for building modern cloud-based web
+    applications on Windows, Mac, or Linux
+  website_url: docs.microsoft.com/en-us/aspnet/core/
+  version: '3.1'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/11331/asp.net-core.png
+  detection_source_url: https://github.com/Aisuko/Quantum/blob/main/samples/algorithms/chsh-game/CHSHGame.csproj
+  detection_source: samples/algorithms/chsh-game/CHSHGame.csproj
+  last_updated_by: Andres Paz
+  last_updated_on: 2019-01-17 07:25:18.000000000 Z
+- name: Chart.js
+  description: Simple, clean and engaging charts for designers and developers
+  website_url: http://www.chartjs.org/
+  version: 2.9.3
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/3866/_GD1-XrU_400x400.jpg
+  detection_source_url: https://github.com/Aisuko/Quantum/blob/main/samples/chemistry/LithiumHydrideGUI/package-lock.json
+  detection_source: samples/chemistry/LithiumHydrideGUI/package.json
+  last_updated_by: Andres Paz
+  last_updated_on: 2018-10-25 21:15:08.000000000 Z
+- name: Electron
+  description: Build cross platform desktop apps with JavaScript, HTML, and CSS
+  website_url: http://electron.atom.io/
+  version: 7.2.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Cross-Platform Desktop Development
+  image_url: https://img.stackshare.io/service/2946/default_18a71b65e69d7aef5f218ae07f64eb6e1594c444.jpg
+  detection_source_url: https://github.com/Aisuko/Quantum/blob/main/samples/chemistry/LithiumHydrideGUI/package-lock.json
+  detection_source: samples/chemistry/LithiumHydrideGUI/package.json
+  last_updated_by: Rolf Huisman
+  last_updated_on: 2020-07-16 18:24:42.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/Aisuko/Quantum/blob/main/samples/runtime/state-visualizer/package.json
+  detection_source: samples/runtime/state-visualizer/package.json
+  last_updated_by: Sarah Marshall
+  last_updated_on: 2019-09-13 22:04:23.000000000 Z
+- name: css-loader
+  description: Helps webpack to collect CSS from all the css files
+  website_url: https://github.com/webpack-contrib/css-loader
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/8074/default_d2b16fd6997fb2e164de645a34f9b8d5a880d999.png
+  detection_source_url: https://github.com/Aisuko/Quantum/blob/main/samples/runtime/state-visualizer/package.json
+  detection_source: samples/runtime/state-visualizer/package.json
+  last_updated_by: Sarah Marshall
+  last_updated_on: 2019-09-13 22:04:23.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/Aisuko/Quantum
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Aisuko/Quantum
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/Aisuko/Quantum/blob/main/.github/workflows/lock-master.yml
+  detection_source: ".github/workflows/lock-master.yml"
+  last_updated_by: Guen P
+  last_updated_on: 2020-09-23 21:24:35.000000000 Z
+- name: NuGet
+  description: The package manager for .NET
+  website_url: https://www.nuget.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/Aisuko/Quantum/blob/main/samples/machine-learning/half-moons/HalfMoons.csproj
+  detection_source: samples/machine-learning/half-moons/HalfMoons.csproj
+  last_updated_by: Chris Granade
+  last_updated_on: 2019-12-03 21:50:30.000000000 Z
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/Aisuko/Quantum/blob/main/samples/interoperability/python/environment.yml
+  detection_source: samples/interoperability/python/environment.yml
+  last_updated_by: Andres Paz
+  last_updated_on: 2018-02-26 14:39:46.000000000 Z
+- name: Visual Studio
+  description: State-of-the-art tools and services that you can use to create great
+    apps for devices, the cloud, and everything in between.
+  website_url: http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Integrated Development Environment
+  image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/Aisuko/Quantum/blob/main/samples/algorithms/algorithms.sln
+  detection_source: samples/algorithms/algorithms.sln
+  last_updated_by: Chris Granade
+  last_updated_on: 2019-10-10 21:52:01.000000000 Z
+- name: Webpack
+  description: A bundler for javascript and friends
+  website_url: http://webpack.js.org
+  version: 4.29.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
+  detection_source_url: https://github.com/Aisuko/Quantum/blob/main/samples/runtime/state-visualizer/package-lock.json
+  detection_source: samples/runtime/state-visualizer/package.json
+  last_updated_by: Sarah Marshall
+  last_updated_on: 2019-09-13 22:04:23.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/Aisuko/Quantum/blob/main/samples/runtime/state-visualizer/package.json
+  detection_source: samples/runtime/state-visualizer/package.json
+  last_updated_by: Sarah Marshall
+  last_updated_on: 2019-09-13 22:04:23.000000000 Z
+- name: xUnit
+  description: An open source, community-focused unit testing tool
+  website_url: http://xunit.github.io/
+  version: 2.4.1
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/3077/ca5a327feb49ddfe1f4b11548907e5a1_400x400.png
+  detection_source_url: https://github.com/Aisuko/Quantum/blob/main/samples/diagnostics/unit-testing/UnitTesting.csproj
+  detection_source: samples/diagnostics/unit-testing/UnitTesting.csproj
+  last_updated_by: Andres Paz
+  last_updated_on: 2018-02-26 14:39:46.000000000 Z
+- name: Debian
+  description: The Universal Operating System
+  website_url: https://www.debian.org/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Operating Systems
+  image_url: https://img.stackshare.io/service/1656/vd4gAekh.png
+  detection_source_url: https://github.com/Aisuko/Quantum/blob/main/Build/images/samples/Dockerfile
+  detection_source: Build/images/samples/Dockerfile
+  last_updated_by: Christopher Granade
+  last_updated_on: 2020-02-03 19:02:19.000000000 Z
+- name: Jupyter
+  description: Multi-language interactive computing environments.
+  website_url: http://jupyter.org
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Data Science Notebooks
+  image_url: https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg
+  detection_source_url: https://github.com/Aisuko/Quantum
+  detection_source: Repo Metadata
+- name: NumPy
+  description: Fundamental package for scientific computing with Python
+  website_url: http://www.numpy.org/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Data Science Tools
+  image_url: https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png
+  detection_source_url: https://github.com/Aisuko/Quantum/blob/main/samples/interoperability/python/environment.yml
+  detection_source: samples/interoperability/python/environment.yml
+  last_updated_by: Andres Paz
+  last_updated_on: 2018-02-26 14:39:46.000000000 Z
+- name: PowerShell
+  description: A task automation and configuration management framework
+  website_url: https://docs.microsoft.com/en-us/powershell/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/3681/powershell-logo.png
+  detection_source_url: https://github.com/Aisuko/Quantum
+  detection_source: Repo Metadata
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/Aisuko/Quantum
+  detection_source: Repo Metadata
+- name: Newtonsoft.Json
+  description: Json.NET is a popular high-performance JSON framework for .NET
+  package_url: https://www.nuget.org/Newtonsoft.Json
+  version: 12.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/nuget/image.png
+  detection_source_url: https://github.com/Aisuko/Quantum/blob/main/samples/chemistry/LithiumHydrideGUI/LithiumHydrideGUI.csproj
+  detection_source: samples/chemistry/LithiumHydrideGUI/LithiumHydrideGUI.csproj
+  last_updated_by: Guen P
+  last_updated_on: 2020-11-30 17:54:58.000000000 Z
+  vulnerabilities:
+  - name: 'Duplicate Advisory: Improper Handling of Exceptional Conditions in Newtonsoft.Json'
+    cve_id:
+    cve_url: https://github.com/advisories/GHSA-8rfx-6mr3-5jh3
+    detected_date: Jan 4
+    severity: high
+    first_patched: 13.0.1
+  - name: Improper Handling of Exceptional Conditions in Newtonsoft.Json
+    cve_id: CVE-2024-21907
+    cve_url: https://github.com/advisories/GHSA-5crp-9r3c-p9vr
+    detected_date: Jun 23
+    severity: high
+    first_patched: 13.0.1
+- name: McMaster.Extensions.CommandLineUtils
+  description: Command-line parsing API and utilities for console applications
+  package_url: https://www.nuget.org/McMaster.Extensions.CommandLineUtils
+  version: 2.3.4
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13508/default_acafa9133bcbebb2b966c9340c23194c2f9bf7bc.png
+  detection_source_url: https://github.com/Aisuko/Quantum/blob/main/samples/chemistry/AnalyzeHamiltonian/1-AnalyzeHamiltonian.csproj
+  detection_source: samples/chemistry/AnalyzeHamiltonian/1-AnalyzeHamiltonian.csproj
+  last_updated_by: Guen P
+  last_updated_on: 2020-11-30 17:54:58.000000000 Z
+- name: Microsoft.Extensions.Logging
+  description: Logging infrastructure default implementation for Microsoft.Extensions.Logging
+  package_url: https://www.nuget.org/Microsoft.Extensions.Logging
+  version: 3.1.7
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12854/default_ccf90b566c21ad9eaa59733f297e535ea39fb3b4.png
+  detection_source_url: https://github.com/Aisuko/Quantum/blob/main/samples/chemistry/AnalyzeHamiltonian/1-AnalyzeHamiltonian.csproj
+  detection_source: samples/chemistry/AnalyzeHamiltonian/1-AnalyzeHamiltonian.csproj
+  last_updated_by: Guen P
+  last_updated_on: 2020-11-30 17:54:58.000000000 Z
+- name: Microsoft.Extensions.Logging.Console
+  description: Console logger provider implementation for Microsoft.Extensions.Logging
+  package_url: https://www.nuget.org/Microsoft.Extensions.Logging.Console
+  version: 3.1.7
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12943/default_e7f4dfb8f4634d3de09f6ace4c8d9767d3189c61.png
+  detection_source_url: https://github.com/Aisuko/Quantum/blob/main/samples/chemistry/AnalyzeHamiltonian/1-AnalyzeHamiltonian.csproj
+  detection_source: samples/chemistry/AnalyzeHamiltonian/1-AnalyzeHamiltonian.csproj
+  last_updated_by: Guen P
+  last_updated_on: 2020-11-30 17:54:58.000000000 Z
+- name: Microsoft.Extensions.Logging.Debug
+  description: Debug output logger provider implementation for Microsoft.Extensions.Logging
+  package_url: https://www.nuget.org/Microsoft.Extensions.Logging.Debug
+  version: 3.1.7
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12995/default_c33fee4544dbdcb376300222dc5e214ee63f7ce9.png
+  detection_source_url: https://github.com/Aisuko/Quantum/blob/main/samples/chemistry/AnalyzeHamiltonian/1-AnalyzeHamiltonian.csproj
+  detection_source: samples/chemistry/AnalyzeHamiltonian/1-AnalyzeHamiltonian.csproj
+  last_updated_by: Guen P
+  last_updated_on: 2020-11-30 17:54:58.000000000 Z
+- name: Mono.Options
+  description: A Getopt::Long-inspired option parsing library for C#
+  package_url: https://www.nuget.org/Mono.Options
+  version: 5.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13700/default_09f501a982727de1a2cc649d59f92953d5bc05a8.png
+  detection_source_url: https://github.com/Aisuko/Quantum/blob/main/samples/chemistry/LithiumHydrideGUI/LithiumHydrideGUI.csproj
+  detection_source: samples/chemistry/LithiumHydrideGUI/LithiumHydrideGUI.csproj
+  last_updated_by: Andres Paz
+  last_updated_on: 2018-10-25 21:15:08.000000000 Z
+- name: System.Text.Json
+  description: Provides high-performance and low-allocating types that serialize objects
+    to JavaScript Object Notation
+  package_url: https://www.nuget.org/System.Text.Json
+  version: 4.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13031/default_ed36ff3c005af695725e05bb15ea5b1f03de31f3.png
+  detection_source_url: https://github.com/Aisuko/Quantum/blob/main/samples/machine-learning/half-moons/HalfMoons.csproj
+  detection_source: samples/machine-learning/half-moons/HalfMoons.csproj
+  last_updated_by: Chris Granade
+  last_updated_on: 2019-12-03 21:50:30.000000000 Z
+- name: xunit.runner.visualstudio
+  description: Visual Studio 2012+ Test Explorer runner for the xUnit.net framework
+  package_url: https://www.nuget.org/xunit.runner.visualstudio
+  version: 2.4.1
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13260/default_d2db5a200c4fe2d08cbdb2174cc230708973870b.png
+  detection_source_url: https://github.com/Aisuko/Quantum/blob/main/samples/diagnostics/unit-testing/UnitTesting.csproj
+  detection_source: samples/diagnostics/unit-testing/UnitTesting.csproj
+  last_updated_by: Guen P
+  last_updated_on: 2020-11-30 17:54:58.000000000 Z
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  version: 12.12.50
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/Aisuko/Quantum/blob/main/samples/chemistry/LithiumHydrideGUI/package-lock.json
+  detection_source: samples/runtime/state-visualizer/package.json
+  last_updated_by: Sarah Marshall
+  last_updated_on: 2019-09-13 22:04:23.000000000 Z
+- name: clean-webpack-plugin
+  description: A webpack plugin to remove/clean your build folder
+  package_url: https://www.npmjs.com/clean-webpack-plugin
+  version: 1.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16068/default_d4e765f8a43dcfd232c8b9ee9732058bc27c727a.png
+  detection_source_url: https://github.com/Aisuko/Quantum/blob/main/samples/runtime/state-visualizer/package-lock.json
+  detection_source: samples/runtime/state-visualizer/package.json
+  last_updated_by: Sarah Marshall
+  last_updated_on: 2019-09-13 22:04:23.000000000 Z
+- name: html-webpack-plugin
+  description: Simplifies creation of HTML files to serve your webpack bundles
+  package_url: https://www.npmjs.com/html-webpack-plugin
+  version: 4.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15841/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/Aisuko/Quantum/blob/main/samples/runtime/state-visualizer/package-lock.json
+  detection_source: samples/runtime/state-visualizer/package.json
+  last_updated_by: Sarah Marshall
+  last_updated_on: 2019-09-13 22:04:23.000000000 Z
+- name: mini-css-extract-plugin
+  description: Extracts CSS into separate files
+  package_url: https://www.npmjs.com/mini-css-extract-plugin
+  version: 0.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15992/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/Aisuko/Quantum/blob/main/samples/runtime/state-visualizer/package-lock.json
+  detection_source: samples/runtime/state-visualizer/package.json
+  last_updated_by: Sarah Marshall
+  last_updated_on: 2019-09-13 22:04:23.000000000 Z
+- name: ts-loader
+  description: TypeScript loader for webpack
+  package_url: https://www.npmjs.com/ts-loader
+  version: 5.3.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15938/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/Aisuko/Quantum/blob/main/samples/runtime/state-visualizer/package-lock.json
+  detection_source: samples/runtime/state-visualizer/package.json
+  last_updated_by: Sarah Marshall
+  last_updated_on: 2019-09-13 22:04:23.000000000 Z
+- name: webpack-cli
+  description: CLI for webpack &amp; friends
+  package_url: https://www.npmjs.com/webpack-cli
+  version: 3.2.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15826/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/Aisuko/Quantum/blob/main/samples/runtime/state-visualizer/package-lock.json
+  detection_source: samples/runtime/state-visualizer/package.json
+  last_updated_by: Sarah Marshall
+  last_updated_on: 2019-09-13 22:04:23.000000000 Z
